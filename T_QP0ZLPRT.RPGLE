@@ -1,5 +1,7 @@
      H DFTACTGRP(*NO) BNDDIR('QC2LE')                                           
-                                                                                
+      
+      *-------------------------------------------------------------------------
+      * da machen wir eine Änderung online
       *-------------------------------------------------------------------------
       * Scott Klement https://www.scottklement.com/rpg/socktut/qrpglesrc.errno_h
      D sys_errno       PR              *   ExtProc('__errno')                   
